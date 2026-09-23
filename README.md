@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=Pavithiran%20Thevarasa&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;React.js+%7C+TypeScript+%7C+Laravel+%7C+Spring+Boot;AI+%2F+IoT+Enthusiast;Final-Year+IT+Undergraduate+%40+SLIIT&font=Fira+Code&center=true&width=560&height=40&duration=3000&pause=1000&color=2E86FF&vCenter=true&size=18" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;git+commit+-m+%22open+to+Full+Stack+roles%22;React.js+%7C+TypeScript+%7C+Laravel+%7C+Spring+Boot;AI+%2F+IoT+Enthusiast;Final-Year+IT+Undergraduate+%40+SLIIT&font=Fira+Code&center=true&width=560&height=40&duration=3000&pause=1000&color=2E86FF&vCenter=true&size=18" />
 
 <br/>
 
@@ -40,6 +40,12 @@ I'm a final-year IT undergraduate at **SLIIT**, graduating September 2026, and a
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/blue-line.gif" width="100%"/>
+
 📫 **thevarasapavi@gmail.com** &nbsp;|&nbsp; 📱 **+94 76 297 3456**
+
+<img src="https://komarev.com/ghpvc/?username=Pavithiran24&style=flat-square&color=2E86FF&label=PROFILE+VIEWS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer" width="100%"/>
 
 </div>
