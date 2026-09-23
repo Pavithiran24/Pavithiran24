@@ -1,120 +1,178 @@
-<h1 align="center">Hi 👋, I'm Pavithiran Thevarasa</h1>
-<h3 align="center">Full Stack Software Engineer | React.js • TypeScript • Laravel • Spring Boot • .NET</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://pavithiran-thevarsa-profile.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/thevarasa-pavithiran-581006241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:thevarasapavi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Pavithiran%20Thevarasa&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  🎓 Final-year IT undergraduate at <b>SLIIT</b> (Expected Graduation: Sep 2026)<br/>
-  💻 Full Stack Developer experienced across web, mobile, and AI/IoT systems<br/>
-  🌱 Currently exploring advanced ML architectures (CNNs, VGG16, MobileNetV2)<br/>
-  📍 Based in Jaffna, Sri Lanka
-</p>
+<a href="https://www.linkedin.com/in/thevarasa-pavithiran-581006241">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Engineer;React.js+%7C+TypeScript+%7C+Laravel+%7C+Spring+Boot;AI+%2F+IoT+Enthusiast+%F0%9F%A4%96;Final-Year+IT+Undergraduate+%40+SLIIT;Turning+Ideas+Into+Scalable+Products&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=1000&color=764ABA&vCenter=true&size=22" />
+</a>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<a href="https://pavithiran-thevarsa-profile.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/thevarasa-pavithiran-581006241" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:thevarasapavi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Pavithiran24" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Pavithiran24&style=for-the-badge&color=764ABA&label=PROFILE+VIEWS" />
 
-**Frontend & Backend**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-</p>
+</div>
 
-**Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-</p>
+<br/>
 
-**AI & IoT**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-</p>
+## 🧑‍💻 About Me
 
-**Databases & Tools**
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
+<img align="right" width="320" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" />
 
-**Cloud**
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
+- 🎓 Final-year **B.Sc. (Hons) IT** undergraduate at **SLIIT** — graduating September 2026
+- 💼 Full Stack Engineer with real-world experience at **Navicode** and **Teceze**
+- 🧠 Built an AI Pest Prediction System achieving **95% accuracy** using CNNs (VGG16, MobileNetV2)
+- 🌐 Comfortable across the entire stack — Figma → Frontend → Backend → Database → Deployment
+- 🔭 Currently building production-grade apps with **React.js, TypeScript & Spring Boot**
+- 🌱 Exploring deeper ML architectures and cloud-native deployment
+- 📍 Jaffna, Sri Lanka | ⚡ Fun fact: I turn IoT sensor data into predictions before my coffee gets cold
+
+<br clear="right"/>
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Arsenal
 
-- 🌾 **[AI Pest Prediction System](#)** — IoT + CNN/Random Forest pest detection with a Flask API and React.js dashboard; achieved 95% prediction accuracy using VGG16 & MobileNetV2.
-- 🏢 **[ERP System for Startup](#)** — End-to-end ERP: Figma UI/UX → React.js + Laravel + MongoDB, deployed to production.
-- 🚗 **[Vehicle Sales Management System](#)** — Client/admin panels with full vehicle management APIs, built with React.js & TypeScript.
-- 🏨 **Hotel Management System** — MERN stack employee management platform.
-- 📊 **Weekly Report Generator Dashboard** — Angular SPA with modular routing and REST API integration.
+<div align="center">
 
-> Replace the `#` links above with your actual GitHub repo URLs.
+<img src="https://skillicons.dev/icons?i=py,java,cs,cpp,js,ts,php,kotlin,dart&theme=dark" />
 
----
+<br/><br/>
 
-### 💼 Experience Snapshot
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,laravel,spring,dotnet,flask&theme=dark" />
 
-- **Full Stack Engineer Intern @ Navicode** (Jan 2025 – Sep 2025) — Startup ERP system, photography platform (React + Laravel + MongoDB), .NET business solution.
-- **Full Stack Engineer Intern @ Teceze** (Nov 2025 – Feb 2026) — Field Techy & Trincos e-commerce platforms (TypeScript/React + Spring Boot).
-- **Freelance Full Stack Developer** (Jan 2024 – Present) — Independent client projects across React.js and TypeScript.
+<br/><br/>
 
----
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,sqlite,tensorflow&theme=dark" />
 
-### 📈 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavithiran24&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran24&theme=tokyonight" width="48%"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,figma,firebase,aws,powerbi&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran24&layout=compact&theme=tokyonight" width="50%"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  📫 Reach me at <b>thevarasapavi@gmail.com</b> | 📱 +94 76 297 3456
-</p>
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌾 AI Pest Prediction System
+IoT + CNN/Random Forest pest detection with a Flask API and React.js dashboard.
+**95% prediction accuracy** using VGG16 & MobileNetV2.
+
+`Python` `TensorFlow` `Flask` `React.js` `ESP32`
+
+[🔗 View Repo](#)
+
+</td>
+<td width="50%">
+
+### 🏢 Startup ERP System
+End-to-end ERP — Figma UI/UX → React.js + Laravel + MongoDB, shipped to production.
+
+`Figma` `React.js` `Laravel` `MongoDB`
+
+[🔗 View Repo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Sales Management System
+Client/admin panels with full vehicle management APIs and a built-in calculator app.
+
+`React.js` `TypeScript` `REST API`
+
+[🔗 View Repo](#)
+
+</td>
+<td width="50%">
+
+### 🏨 Hotel Management System
+Employee management system built on the MERN stack.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[🔗 View Repo](#)
+
+</td>
+</tr>
+</table>
+
+> ✏️ Replace the `#` links above with your actual GitHub repo URLs.
+
+</div>
+
+---
+
+## 💼 Experience Timeline
+
+```text
+2024 ─────────────────────────────────────────────────────▶ Present
+  │
+  ├── Jan 2024   🟢 Freelance Full Stack Developer (Independent Projects)
+  │
+  ├── Jan 2025   🔵 Full Stack Engineer Intern @ Navicode
+  │              → Startup ERP, Photography Platform, .NET Business Solution
+  │
+  ├── Nov 2025   🟣 Full Stack Engineer Intern @ Teceze
+  │              → Field Techy & Trincos E-Commerce Platforms
+  │
+  └── Sep 2026   🎓 B.Sc. (Hons) IT — SLIIT Graduation
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pavithiran24&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavithiran24&theme=radical&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavithiran24&layout=compact&theme=radical&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pavithiran24&theme=redical&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Pavithiran24/Pavithiran24/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> ⚙️ This snake animation needs a one-time GitHub Actions setup — instructions below.
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/thevarasa-pavithiran-581006241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:thevarasapavi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="tel:+94762973456"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=100&section=footer" width="100%"/>
+
+</div>
